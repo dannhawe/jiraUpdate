@@ -1,0 +1,5 @@
+export const GET_LIST_USER = 'GET_LIST_USER'
+export const GET_LIST_USER_SAGA = 'GET_LIST_USER_SAGA'
+
+export const DELETE_USER_SAGA = 'DELETE_USER_SAGA'
+export const EDIT_USER_SAGA = 'EDIT_USER_SAGA'
